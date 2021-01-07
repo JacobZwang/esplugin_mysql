@@ -1,6 +1,6 @@
 # esplugin_mysql
 
-An MySQL plugin for [EssentialMode](https://github.com/kanersps/essentialmode).
+A MySQL plugin for [EssentialMode](https://github.com/kanersps/essentialmode).
 
 ## Installation
 
